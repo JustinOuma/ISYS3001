@@ -1,0 +1,12 @@
+my-todo-app/
+│
+├── app/
+│   ├── __init__.py
+│   ├── routes.py
+│   ├── templates/
+│       └── index.html
+├── requirements.txt
+├── Dockerfile
+├── .gitignore
+├── README.md
+└── docker-compose.yml
