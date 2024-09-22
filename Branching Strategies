@@ -1,0 +1,9 @@
+""" 
+Main Branch (main): The stable code
+Feature Branch (feature/user-auth): Branch to implement user authentication.
+Hotfix Branch (hotfix/login-bug): Immediate fix for a login bug in production
+"""
+git checkout -b feature/user-auth
+# Code and commit changes for the feature
+git checkout main
+git merge feature/user-auth
