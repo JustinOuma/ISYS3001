@@ -9,3 +9,16 @@ Include deployment configuration details.
 Procurement Request (RFP):
 
 Submit your RFP detailing the tools and services required, why they were chosen, and how they will be procured.
+
+# Web App
+This project is a Flask-based web application with PostgreSQL as the database.
+
+## Features
+- User Authentication
+- Dashboard
+- PostgreSQL Integration
+
+## Setup
+1. Clone the repository:
+   """bash
+   git clone https://github.com/jouma10/ISYS3001.git
