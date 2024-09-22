@@ -1,0 +1,10 @@
+# Identifiy Necessary Tools and Services
+Flask: Lightweight web framework for Python.
+PostgreSQL: Relational database system.
+GitHub: Version control and repository hosting.
+Bootstrap: Front-end UI styling.
+AWS: For production environment hosting.
+
+Flask: Chosen due to its simplicity and quick setup for a small-scale web application. It has a lower learning curve compared to other frameworks like Django.
+PostgreSQL: Provides robust relational database support with strong community backing. Ideal for handling structured data.
+AWS: Offers flexible hosting with various pricing tiers, making it suitable for production deployment.
