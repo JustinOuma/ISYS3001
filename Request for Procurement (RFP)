@@ -1,0 +1,14 @@
+Purpose
+We require a relational database management system for our web application to store user data, transaction logs, and other application-related information.
+
+Features
+SQL support for structured data.
+Scalability for future growth.
+Strong data integrity and ACID compliance.
+
+Budget Consideration
+We are looking for a free tier or a budget-friendly cloud-hosted service for initial deployment.
+
+Procurement Process
+License: PostgreSQL is open-source and free to use.
+Subscription: If opting for a managed service (e.g., AWS RDS), we will explore the free tier or low-cost subscription models.
