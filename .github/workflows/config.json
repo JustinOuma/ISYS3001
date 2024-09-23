@@ -1,0 +1,10 @@
+{
+    "development": {
+        "database": "postgresql://user:password@localhost/mydatabase",
+        "debug": true
+    },
+    "production": {
+        "database": "postgresql://user:password@prodserver/mydatabase",
+        "debug": false
+    }
+}
