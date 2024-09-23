@@ -1,4 +1,4 @@
-A detailed description of the project, the purpose of the web app, and how to set it up.
+ISYS3001 Term 4 2024 A detailed description of the project, the purpose of the web app, and how to set it up.
 Commit history demonstrating your use of branches and version control.
 Any deployment scripts or configuration files.
 Project Report:
