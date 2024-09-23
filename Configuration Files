@@ -1,0 +1,16 @@
+
+#### **2. Project Report**
+
+**Example**:
+
+In this project, we implemented Git for version control. We used a branching strategy that included a `main` branch for stable releases, feature branches for new developments, and hotfix branches for urgent bug fixes. This ensured a smooth and organized development workflow.
+
+We also used configuration management to handle environment variables, allowing us to deploy the app across multiple environments with minimal changes. The `.env` and `config.json` files facilitated secure and flexible management of sensitive data and environment-specific settings.
+
+#### **3. Procurement Request (RFP)**
+
+Submit the RFPs you prepared, including the one for PostgreSQL, and explain why the selected tools fit the needs of the project.
+
+---
+
+This approach demonstrates your practical application of both configuration and procurement management principles, ensuring you meet the assignment’s requirements.
