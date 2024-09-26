@@ -8,6 +8,6 @@
 - Initial release with basic user authentication and dashboard feature.
 - Added ReadMe
   
-## [] - 2023-09-12
+## [0.9.9] - 2023-09-12
 ### Added
 - config.json
