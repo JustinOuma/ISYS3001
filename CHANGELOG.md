@@ -6,3 +6,4 @@
 ## [1.0.0] - 2024-09-15
 ### Added
 - Initial release with basic user authentication and dashboard feature.
+- Added ReadMe
