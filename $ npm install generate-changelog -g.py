@@ -1,1 +1,0 @@
-$ npm install generate-changelog -g
